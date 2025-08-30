@@ -23,7 +23,7 @@ This project explores the use of **Federated Learning (FL)** to predict **networ
 - Compared centralized vs federated performance.  
 
 ## 🏆 Results
-- Achieved high classification accuracy in both centralized and federated settings.  
+- Achieved high classification accuracy in federated learning model than centralized model.  
 - Demonstrated that **federated models can achieve comparable performance** while preserving **privacy**.  
 
 ## 🚀 Key Takeaways
